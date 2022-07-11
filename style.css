@@ -38,17 +38,16 @@
 .imageAboutPage {
     margin: auto;
     width: 50%;
-    border: 3px solid black;
     padding: 10px;
 
 }
 
 .textAboutPage {
-    font-size: 26px;
+    font-size: 22px;
 }
 
 .textAboutPoints {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 /* services section css */
