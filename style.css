@@ -50,6 +50,13 @@
     font-size: 18px;
 }
 
+/* education section */
+.center {
+    margin: auto;
+    width: 50%;
+    /* padding: 10px; */
+  }
+
 /* services section css */
 .servicesText.card {
     height: 280px;
